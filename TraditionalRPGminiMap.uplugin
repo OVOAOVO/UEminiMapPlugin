@@ -1,0 +1,17 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "TraditionalRPGminiMap",
+	"Description": "This is a traditional RPG-style minimap that can help reduce some in-game workload.",
+	"Category": "Other",
+	"CreatedBy": "OVOAOVO",
+	"CreatedByURL": "https://github.com/OVOAOVO",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false
+}
